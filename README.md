@@ -33,6 +33,8 @@
 ## Input:
 
 ### Output:
+![Screenshot (68)](https://github.com/tharikasankar/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119475507/79a58faf-02ff-46d7-9132-4922f81c6cc6)
+![Screenshot (95)](https://github.com/tharikasankar/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119475507/1ac3b954-ddf0-4cfc-9f63-07cfac34fd69)
 
 
 ### Name:
