@@ -38,8 +38,8 @@
 ![Screenshot (95)](https://github.com/tharikasankar/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119475507/1ac3b954-ddf0-4cfc-9f63-07cfac34fd69)
 
 
-### Name:
-### Register Number:
+### Name: Thariks S
+### Register Number: 212222230159
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
