@@ -8,7 +8,7 @@
 ## REQUIREMENTS:
 ### ●	CURA 4.0 Software
 ### ●	 Autodesk Fusion 360
-### ●	 System - Windows 7 or higher, 1 GB RAM.
+### ●	 System - Windows 7 or higher, 1 GB RAM. 
 
 ## PROCEDURE:
 ### Step 1.:- Duplicate all the geometric features for the given object using vernier caliper, measuring tapes or any instruments provided
